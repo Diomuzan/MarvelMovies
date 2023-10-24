@@ -1,0 +1,15 @@
+C:\Projects\Sarevici\bin\Debug\net8.0\Sarevici.exe
+C:\Projects\Sarevici\bin\Debug\net8.0\Sarevici.deps.json
+C:\Projects\Sarevici\bin\Debug\net8.0\Sarevici.runtimeconfig.json
+C:\Projects\Sarevici\bin\Debug\net8.0\Sarevici.dll
+C:\Projects\Sarevici\bin\Debug\net8.0\Sarevici.pdb
+C:\Projects\Sarevici\obj\Debug\net8.0\Sarevici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Sarevici\obj\Debug\net8.0\Sarevici.AssemblyInfoInputs.cache
+C:\Projects\Sarevici\obj\Debug\net8.0\Sarevici.AssemblyInfo.cs
+C:\Projects\Sarevici\obj\Debug\net8.0\Sarevici.csproj.CoreCompileInputs.cache
+C:\Projects\Sarevici\obj\Debug\net8.0\Sarevici.sourcelink.json
+C:\Projects\Sarevici\obj\Debug\net8.0\Sarevici.dll
+C:\Projects\Sarevici\obj\Debug\net8.0\refint\Sarevici.dll
+C:\Projects\Sarevici\obj\Debug\net8.0\Sarevici.pdb
+C:\Projects\Sarevici\obj\Debug\net8.0\Sarevici.genruntimeconfig.cache
+C:\Projects\Sarevici\obj\Debug\net8.0\ref\Sarevici.dll
